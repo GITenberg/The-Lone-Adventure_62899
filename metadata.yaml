@@ -1,0 +1,27 @@
+_repo: The-Lone-Adventure_62899
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sutcliffe, Halliwell
+    alias: Quilp, Jocelyn
+    birthdate: 1870
+    deathdate: 1932
+    gutenberg_agent_id: '42289'
+    url: http://www.gutenberg.org/2009/agents/42289
+description: ''
+gutenberg_issued: '2020-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62899'
+  lccn: '11023495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+- GITenberg
+title: The Lone Adventure
+url: http://www.gutenberg.org/ebooks/62899
